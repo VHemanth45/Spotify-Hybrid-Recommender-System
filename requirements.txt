@@ -6,3 +6,4 @@ scipy
 category-encoders
 streamlit
 joblib
+dask
