@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+scipy
+category-encoders
+streamlit
+joblib
+dask[complete]
+dvc
+dvc[s3]
