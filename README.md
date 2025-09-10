@@ -77,6 +77,7 @@ The system uses the following datasets:
    ```bash
    streamlit run app.py
    ```
+<img width="1426" height="921" alt="image" src="https://github.com/user-attachments/assets/ad00c45b-f87d-467f-b740-1aeaf23006e1" />
 
 2. Open your web browser and navigate to the provided local URL (typically http://localhost:8501)
 
